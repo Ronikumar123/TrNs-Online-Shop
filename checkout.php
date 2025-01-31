@@ -296,9 +296,7 @@ span.price {
 								<li>
 									<a href="#"><i class="fa fa-instagram"></i></a>
 								</li>
-								<li>
-									<a href="#"><i class="fa fa-pinterest"></i></a>
-								</li>
+								
 							</ul>
 						</div>
 					</div>
